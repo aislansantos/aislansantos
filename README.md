@@ -1,6 +1,6 @@
-### Olá! tudo bem ? Sou o Aislan Santos 👋
+### Olá! Tudo bem? Sou o Aislan Santos 👋
 
-- 🔭 Atualente não trabalho com devenvolvimento, porém estou focado para conseguir começar nesse mundo!
+- 🔭 Atualmente não trabalho com desenvolvimento, porém, estou focado para conseguir começar nesse mundo!
 - 🌱 Estudando Python e Django
 
 <div align="center">
