@@ -1,7 +1,7 @@
 ### Olá! Tudo bem? Sou o Aislan Santos 👋
 
 - 🔭 Atualmente não trabalho com desenvolvimento, porém, estou focado para conseguir começar nesse mundo!
-- 🌱 Estudando Python e Django
+- 🌱 Estudando Python, Django e testes automatizados
 
 <div align="center">
   <a href="https://github.com/aislansantos">
