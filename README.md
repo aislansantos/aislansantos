@@ -29,6 +29,7 @@ Entusiasta de tecnologia e apaixonado por saber como as coisas funcionam!
 </p>
 
 ## Ultimos projetos:
+- [Projeto Api Amigo-Secreto](https://github.com/aislansantos/amigo-secreto)<br>
 - [Projeto Node-Prisma](https://github.com/aislansantos/node-prisma)<br>
 - [Projeto "Olx-API"](https://github.com/aislansantos/olx-api)<br>
 - [Projeto MongoDb](https://github.com/aislansantos/mongoDb-project)<br>
