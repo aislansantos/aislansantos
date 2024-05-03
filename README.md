@@ -29,6 +29,7 @@ Entusiasta de tecnologia e apaixonado por saber como as coisas funcionam!
 </p>
 
 ## Ultimos projetos:
+- [Projeto Api Controle de Estoque](https://github.com/aislansantos/backend_controle_estoque)<br>
 - [Projeto Api Amigo-Secreto](https://github.com/aislansantos/amigo-secreto)<br>
 - [Projeto Node-Prisma](https://github.com/aislansantos/node-prisma)<br>
 - [Projeto "Olx-API"](https://github.com/aislansantos/olx-api)<br>
