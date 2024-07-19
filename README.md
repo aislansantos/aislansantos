@@ -28,6 +28,9 @@
 Entusiasta de tecnologia e apaixonado por saber como as coisas funcionam!
 </p>
 
+## Projeto atual:
+[Projeto Controle de Pedidos - Nestjs](https://github.com/aislansantos/ControlePedidosNestjs)<br>
+
 ## Ultimos projetos:
 - [Projeto Api Controle de Estoque](https://github.com/aislansantos/backend_controle_estoque)<br>
 - [Projeto Api Amigo-Secreto](https://github.com/aislansantos/amigo-secreto)<br>
