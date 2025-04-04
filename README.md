@@ -3,7 +3,7 @@
 
 Olá! Sou Aislan Santos, desenvolvedor backend com experiência em C#, .NET, ASP.NET Core e desenvolvimento de APIs escaláveis e microservices.
 
-Apaixonado por arquitetura de software, boas práticas (SOLID, Clean Code) e testes automatizados. Trabalho com SQL, NoSQL, Docker, Kubernetes e estou sempre explorando novas tecnologias para otimizar soluções.
+Apaixonado por arquitetura de software, boas práticas (SOLID, Clean Code) e testes automatizados. Trabalho com SQL, NoSQL, Docker e estou sempre explorando novas tecnologias para otimizar soluções.
 
 🚀 Sempre aberto a novas oportunidades e networking! Vamos conectar?
 
