@@ -41,7 +41,7 @@ Entusiasta de tecnologia e apaixonado por saber como as coisas funcionam!
 </p>
 
 ## Projeto atual:
-[Projeto Controle de Pedidos - Nestjs](https://github.com/aislansantos/ControlePedidosNestjs)<br>
+Atualmente trabalhando em um projeto referente a PDV da empresa Sortee Soluções Inteligentes<br>
 
 ## Ultimos projetos:
 - [Projeto Api Controle de Estoque](https://github.com/aislansantos/backend_controle_estoque)<br>
