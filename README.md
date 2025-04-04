@@ -1,5 +1,12 @@
 # Olá! Eu sou Aislan Santos 🖐️
 
+
+Olá! Sou Aislan Santos, desenvolvedor backend com experiência em C#, .NET, ASP.NET Core e desenvolvimento de APIs escaláveis e microservices.
+
+Apaixonado por arquitetura de software, boas práticas (SOLID, Clean Code) e testes automatizados. Trabalho com SQL, NoSQL, Docker, Kubernetes e estou sempre explorando novas tecnologias para otimizar soluções.
+
+🚀 Sempre aberto a novas oportunidades e networking! Vamos conectar?
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aislan-ap-santos/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aislansantos)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aislan4056/)
